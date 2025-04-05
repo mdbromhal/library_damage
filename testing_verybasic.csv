@@ -1,0 +1,8 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+my_shelf_some_damage.jpeg,296015,"{}",7,0,"{""name"":""rect"",""x"":254,""y"":206,""width"":281,""height"":1297}","{""cover damage"":""no damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,1,"{""name"":""rect"",""x"":489,""y"":237,""width"":254,""height"":1292}","{""cover damage"":""no damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,2,"{""name"":""rect"",""x"":733,""y"":206,""width"":224,""height"":1315}","{""cover damage"":""no damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,3,"{""name"":""rect"",""x"":960,""y"":213,""width"":194,""height"":1313}","{""cover damage"":""no damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,4,"{""name"":""rect"",""x"":1177,""y"":615,""width"":134,""height"":873}","{""cover damage"":""no damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,5,"{""name"":""rect"",""x"":1364,""y"":251,""width"":213,""height"":1254}","{""cover damage"":""cover damage""}"
+my_shelf_some_damage.jpeg,296015,"{}",7,6,"{""name"":""rect"",""x"":1638,""y"":253,""width"":272,""height"":1258}","{""cover damage"":""cover damage""}"
